@@ -1,0 +1,8 @@
+com\fsoft\hieupnm\booklendsystem\model\DAO\implementation\BookDAOImplTest.class
+com\fsoft\hieupnm\booklendsystem\utils\validation\InputValidatorTest.class
+com\fsoft\hieupnm\booklendsystem\utils\transformation\StringFormatTest.class
+com\fsoft\hieupnm\booklendsystem\model\DAO\implementation\UserDAOImplTest.class
+com\fsoft\hieupnm\booklendsystem\utils\transformation\StringTransformTest.class
+com\fsoft\hieupnm\booklendsystem\service\implementation\UserServiceImplTest.class
+com\fsoft\hieupnm\booklendsystem\utils\dbconnection\DBUtilsTest.class
+com\fsoft\hieupnm\booklendsystem\service\implementation\BookServiceImplTest.class

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.fsoft.hieupnm.booklendsystem.model.DAO.implementation.BookDAOImplTest" time="0.92" tests="13" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="15"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\MINH HIEU\Desktop\GoogleDriveSync\Learn to Code\Java\Eclipse_Workspace\booklendsystem\target\test-classes;C:\Users\MINH HIEU\Desktop\GoogleDriveSync\Learn to Code\Java\Eclipse_Workspace\booklendsystem\target\classes;C:\Users\MINH HIEU\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\MINH HIEU\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\MINH HIEU\.m2\repository\mysql\mysql-connector-java\8.0.16\mysql-connector-java-8.0.16.jar;C:\Users\MINH HIEU\.m2\repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar;C:\Users\MINH HIEU\.m2\repository\org\apache\poi\poi\3.17\poi-3.17.jar;C:\Users\MINH HIEU\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\MINH HIEU\.m2\repository\org\apache\commons\commons-collections4\4.1\commons-collections4-4.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Saigon"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="15"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Users\MINH HIEU\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.1.v20201027-0507\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\MINHHI~1\AppData\Local\Temp\surefire722437172703883683\surefirebooter5478482071016091281.jar C:\Users\MINH HIEU\AppData\Local\Temp\surefire722437172703883683 2021-04-01T11-15-26_143-jvmRun1 surefire2528086754123425232tmp surefire_07786397032225664753tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\MINH HIEU\Desktop\GoogleDriveSync\Learn to Code\Java\Eclipse_Workspace\booklendsystem\target\test-classes;C:\Users\MINH HIEU\Desktop\GoogleDriveSync\Learn to Code\Java\Eclipse_Workspace\booklendsystem\target\classes;C:\Users\MINH HIEU\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\MINH HIEU\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\MINH HIEU\.m2\repository\mysql\mysql-connector-java\8.0.16\mysql-connector-java-8.0.16.jar;C:\Users\MINH HIEU\.m2\repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar;C:\Users\MINH HIEU\.m2\repository\org\apache\poi\poi\3.17\poi-3.17.jar;C:\Users\MINH HIEU\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\MINH HIEU\.m2\repository\org\apache\commons\commons-collections4\4.1\commons-collections4-4.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\MINH HIEU"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-10-20"/>
+    <property name="java.home" value="C:\Users\MINH HIEU\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.1.v20201027-0507\jre"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\MINH HIEU\Desktop\GoogleDriveSync\Learn to Code\Java\Eclipse_Workspace\booklendsystem"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\MINHHI~1\AppData\Local\Temp\surefire722437172703883683\surefirebooter5478482071016091281.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="15.0.1+9-18"/>
+    <property name="user.name" value="MINH HIEU"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\MINH HIEU\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\MINHHI~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="15.0.1"/>
+    <property name="user.dir" value="C:\Users\MINH HIEU\Desktop\GoogleDriveSync\Learn to Code\Java\Eclipse_Workspace\booklendsystem"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Users\MINH HIEU\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.1.v20201027-0507\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/MINH HIEU/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.1.v20201027-0507/jre/bin/server;C:/Users/MINH HIEU/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.1.v20201027-0507/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\MinGW\bin;C:\Program Files\PuTTY\;C:\Program Files\Calibre2\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Apache Software Foundation\apache-maven-3.6.3\bin;C:\Users\MINH HIEU\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\MINH HIEU\AppData\Local\Programs\Python\Python39\;C:\Users\MINH HIEU\AppData\Local\Microsoft\WindowsApps;C:\Windows\SysWOW64;C:\Windows\System32;C:\Users\MINH HIEU\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\MINH HIEU\AppData\Roaming\npm;C:\MinGW\bin;C:\Python27;C:\Python27\Scripts;C:\Users\MINH HIEU\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\MINH HIEU\.dotnet\tools;C:\Program Files\heroku\bin;C:\WINDOWS\System32;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="15.0.1+9-18"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="59.0"/>
+  </properties>
+  <testcase name="readBookById_fail" classname="com.fsoft.hieupnm.booklendsystem.model.DAO.implementation.BookDAOImplTest" time="0.33"/>
+  <testcase name="readBookById_pass" classname="com.fsoft.hieupnm.booklendsystem.model.DAO.implementation.BookDAOImplTest" time="0.06"/>
+  <testcase name="isBookExisted_fail" classname="com.fsoft.hieupnm.booklendsystem.model.DAO.implementation.BookDAOImplTest" time="0.037"/>
+  <testcase name="isBookExisted_pass" classname="com.fsoft.hieupnm.booklendsystem.model.DAO.implementation.BookDAOImplTest" time="0.041"/>
+  <testcase name="returnBook_fail" classname="com.fsoft.hieupnm.booklendsystem.model.DAO.implementation.BookDAOImplTest" time="0.038"/>
+  <testcase name="returnBook_pass" classname="com.fsoft.hieupnm.booklendsystem.model.DAO.implementation.BookDAOImplTest" time="0.048"/>
+  <testcase name="isBookLend_fail" classname="com.fsoft.hieupnm.booklendsystem.model.DAO.implementation.BookDAOImplTest" time="0.042"/>
+  <testcase name="isBookLend_pass" classname="com.fsoft.hieupnm.booklendsystem.model.DAO.implementation.BookDAOImplTest" time="0.047"/>
+  <testcase name="deleteBookById_fail" classname="com.fsoft.hieupnm.booklendsystem.model.DAO.implementation.BookDAOImplTest" time="0.038"/>
+  <testcase name="deleteBookById_pass" classname="com.fsoft.hieupnm.booklendsystem.model.DAO.implementation.BookDAOImplTest" time="0.043"/>
+  <testcase name="updateBookById_fail" classname="com.fsoft.hieupnm.booklendsystem.model.DAO.implementation.BookDAOImplTest" time="0.036"/>
+  <testcase name="updateBookById_pass" classname="com.fsoft.hieupnm.booklendsystem.model.DAO.implementation.BookDAOImplTest" time="0.044"/>
+  <testcase name="readAllBook_pass" classname="com.fsoft.hieupnm.booklendsystem.model.DAO.implementation.BookDAOImplTest" time="0.05"/>
+</testsuite>
